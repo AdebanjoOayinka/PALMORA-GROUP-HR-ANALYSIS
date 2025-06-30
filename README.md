@@ -101,18 +101,20 @@ The dataset provided contains two sets of information, one set of dat for the ge
     
         *- A Bar chart was used to show the distribution side by side
         
-  00000  4. Show insights on ratings based on gender
+    4. insights on ratings based on gender:
+
+        More research was done to reveal more about the gender distribution in the organization.
     
         *- From the cleaned data, a pivot table was done to get the total counts of the genders in each region in the orgarnization.
     
-         *- A Bar chart was used to show the distribution side by side
+        *- A Bar chart was used to show the distribution side by side
         
     5. Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management
     
-          *- From the cleaned data, a pivot table was done to see the salary for each gender in each department and region in the orgarnization.
+        *- From the cleaned data, a pivot table was done to see the salary for each gender in each department and region in the orgarnization.
     
-          *- A Bar chart was used to show the salary payment for each gender distribution side by side.
-          *- A Bar chart was used to show the regions with this salary variance.
+        *- A Bar chart was used to show the salary payment for each gender distribution side by side.
+        *- A Bar chart was used to show the regions with this salary variance.
         
     6. A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000
     
