@@ -152,34 +152,67 @@ bonus)
 ## Charts
 
 #### Charts were deployed for:
+
      *- Analysis 1:
+     
+![Palmora 1](https://github.com/user-attachments/assets/a380a5d0-d843-4f0a-8800-a4f35f3bf7ad)
 
 
      *- Analysis 2:
-
+     
+![Palmora 2](https://github.com/user-attachments/assets/0afca7af-7585-4d45-a135-35e3b3fa93da)
 
      *- Analysis 3:
+     
+![Palmora 3](https://github.com/user-attachments/assets/bbac0801-72eb-40b6-82e7-216658bb4656)
 
 
      *- Analysis 4:
+     
+![Palmora 4](https://github.com/user-attachments/assets/73317cfd-2c10-4b4e-9e03-8409c2f2e6d6)
 
 
      *- Analysis 5:
 
+![Palmora 5](https://github.com/user-attachments/assets/70eac704-af0e-4976-a527-dfa27eb824c1)
 
      *- Analysis 6:
-
+     
+![Palmora 6](https://github.com/user-attachments/assets/46a5bffa-4218-404d-8246-6b994560aec3)
 
      *- Analysis 7:
-
+     
+![Palmora 7](https://github.com/user-attachments/assets/42d63b9b-fc26-4192-ae1e-9efb4cdd396b)
 
      *- Analysis 8:
+     
+![Palmora 8](https://github.com/user-attachments/assets/0b755b0b-1efa-4144-b229-66413d9a6bd6)
 
 
      *- Analysis 9:
-
+     
+![Palmora 9](https://github.com/user-attachments/assets/640273f8-fcc6-4a48-a92c-87e679d7917b)
 
      *- Analysis 10:
 
+![Palmora 10](https://github.com/user-attachments/assets/ef01add5-9736-4549-8caa-a4f051690470)
 
+     *- Analysis 11:
+
+![Palmora 11](https://github.com/user-attachments/assets/4d8856e7-092d-42fd-9454-a378be7cd4a2)
+
+     *- Analysis 12:
+     
+![Palmora 12](https://github.com/user-attachments/assets/8fda5d2f-b703-4965-bf87-91e12af97cc3)
+
+     *- Analysis 13:
+
+![Palmora 13](https://github.com/user-attachments/assets/195e48b4-ed48-46e8-9fb7-c389704bcf9c)
+
+     *- Analysis 14:
+
+![Palmora 14](https://github.com/user-attachments/assets/e6816891-0a56-4de2-8cc5-b07743320ec0)
+
+
+     
      
