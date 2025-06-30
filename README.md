@@ -87,19 +87,19 @@ The dataset provided contains two sets of information, one set of dat for the ge
     
         *- From the cleaned data, a pivot table was done to get the overall gender counts for the organizaion.
         
-        *- A pie chart was used to show the distribution
+        *- A pie chart was used to show the distribution.
         
     2. What is the gender distribution regions:
     
         *- From the cleaned data, a pivot table was done to get the total counts of the genders in each departments in the orgarnization.
         
-        *- A Bar chart was used to show the distribution side by side
+        *- A Bar chart was used to show the distribution side by side.
        
     3. What is the gender distribution regions:
     
         *- From the cleaned data, a pivot table was done to get the total counts of the genders in each region in the orgarnization.
     
-        *- A Bar chart was used to show the distribution side by side
+        *- A Bar chart was used to show the distribution side by side.
         
     4. insights on ratings based on gender:
 
@@ -107,20 +107,22 @@ The dataset provided contains two sets of information, one set of dat for the ge
     
         *- From the cleaned data, a pivot table was done to get the total counts of the genders in each region in the orgarnization.
     
-        *- A Bar chart was used to show the distribution side by side
+        *- A Bar chart was used to show the distribution side by side.
         
-    5. Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management
+    5. Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management:
     
         *- From the cleaned data, a pivot table was done to see the salary for each gender in each department and region in the orgarnization.
     
         *- A Bar chart was used to show the salary payment for each gender distribution side by side.
+        
         *- A Bar chart was used to show the regions with this salary variance.
         
-    6. A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000
+    6. A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000:
     
-        ● Does Palmoria meet this requirement?
+        ● Does Palmoria meet this requirement:
         
             *- Using the (IF) function in excel to see the whole salary of the employees.
+            
             *- The data shows the company does not meet the requirement of $90,000 minimum salary.
         
         ● Show the pay distribution of employees grouped by a band of $10,000:
@@ -133,21 +135,20 @@ The dataset provided contains two sets of information, one set of dat for the ge
             
              *- A Bar chart was used to show the count of employess under each salary band inthe organization.
         
-        ● Also visualize this by regions
+        ● Also visualize this by regions:
              *- Bar charts was used to show for each region
              
    ## ANALYSIS FOR BONUS PAYOUTS
    
-        ● Calculate the amount to be paid as a bonus to individual employees
+        ● Calculate the amount to be paid as a bonus to individual employees:
               *- Using  the (INDEX) and (MATCH) functions to extract the bonus ratings.
               
               *- The excel function (MULTIPLY) was used to get the bonus pay for each staff. 
         
-        ● Calculate the total amount to be paid to individual employees (salary inclusive of
-bonus)
+        ● Calculate the total amount to be paid to individual employees (salary inclusive of bonus):
               *- The excel function (MULTIPLY) was used to get the product of the bonus pay and salary for each staff.
 
-        ● Total amount to be paid out per region and company-wide
+        ● Total amount to be paid out per region and company-wide:
 
               *- The excel function (ADDITION) was used to get the sum the total payout for the organization.
         
@@ -215,6 +216,8 @@ bonus)
 
 ![Palmora 14](https://github.com/user-attachments/assets/e6816891-0a56-4de2-8cc5-b07743320ec0)
 
+## PRESENTATION
 
+### The whole data was presented in an excel dashboard.
      
      
