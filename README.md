@@ -222,10 +222,14 @@ The dataset provided contains two sets of information, one set of dat for the ge
 ### Column splicers were used to show insight into the charts. Some charts were modified to fit in the splicer.
 
 ### The whole data was presented in an excel dashboard.
+
       ● Analysis 14:
+      
+![Palmora 15](https://github.com/user-attachments/assets/f4039fb7-1d0c-4ef4-9344-56207a6462a5)
 
-
-       [Download Here] (PALMORA GROUP HR ANALYSIS PROJECT.xlsx](https://github.com/user-attachments/files/20998299/PALMORA.GROUP.HR.ANALYSIS.PROJECT.xlsx)
+     ● Spreadsheet: 
+     
+[Download Here] (PALMORA GROUP HR ANALYSIS PROJECT.xlsx](https://github.com/user-attachments/files/20998299/PALMORA.GROUP.HR.ANALYSIS.PROJECT.xlsx)
 
        
      
