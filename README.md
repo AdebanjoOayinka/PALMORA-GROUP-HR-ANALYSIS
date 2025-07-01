@@ -223,5 +223,5 @@ The dataset provided contains two sets of information, one set of dat for the ge
 
 ### The whole data was presented in an excel dashboard.
 
-       ● (Download Here) [PALMORA GROUP HR ANALYSIS PROJECT.xlsx](https://github.com/user-attachments/files/20998299/PALMORA.GROUP.HR.ANALYSIS.PROJECT.xlsx)
+       ● [Download Here] (PALMORA GROUP HR ANALYSIS PROJECT.xlsx](https://github.com/user-attachments/files/20998299/PALMORA.GROUP.HR.ANALYSIS.PROJECT.xlsx)
      
