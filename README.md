@@ -218,6 +218,8 @@ The dataset provided contains two sets of information, one set of dat for the ge
 
 ## PRESENTATION
 
+### Column splicers were used to show insight into the charts. Some charts were modified to fit in the splicer.
+
 ### The whole data was presented in an excel dashboard.
      
      
