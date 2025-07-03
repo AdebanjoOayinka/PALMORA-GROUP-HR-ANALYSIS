@@ -2,24 +2,34 @@
 
 ## PROJECT OVERVIEW
 
-#### The Palmoria Group, is a manufacturing company based in Nigeria, is embroiled in issues bordering on gender inequality in its 3 regions. Unfortunately, the media recently published the news with the headline “Palmoria, the Manufacturing Patriarchy”. 
+#### The Palmoria Group, is a manufacturing company based in Nigeria, is embroiled in issues bordering on gender inequality in its 3 regions.
+
+Unfortunately, the media recently published the news with the headline “Palmoria, the Manufacturing Patriarchy”. 
+
 This doesn’t look good for the owners of the business, based on their ambition to scale the business to other regions and even overseas. Cases like this can only spiral downwards,
-revealing other issues like the gender pay gap, amongst other possible issues. The CEO of Palmoria, Mr Ayodeji Chukwuma, is keen to address these issues before they get out of hand. The CHRO, Mr Yunus Shofoluwe, has been assigned the task to identify key areas within the business that could give rise to issues and address them immediately.
+
+revealing other issues like the gender pay gap, amongst other possible issues. 
+
+The CEO of Palmoria, Mr Ayodeji Chukwuma, is keen to address these issues before they get out of hand. 
+
+The CHRO, Mr Yunus Shofoluwe, has been assigned the task to identify key areas within the business that could give rise to issues and address them immediately.
 
 The MD has decided to recruit me as an HR Analytics expert to analyse the company’s HR data and come up with recommendations for management’s attention.
 
 The future of gender equality in Palmoria lies in the analysis of this data.
 
 ## PROJECT INSTRUCTION
-      ● Analyse the company data and generate insights that the Palmoria management team would need to address
+
+      ● Analyse the company data and generate insights that the Palmoria management team would need to address.
      
-      ● Your analysis should be visualised using appropriate charts
+      ● Your analysis should be visualised using appropriate charts.
      
-      ● Your focus should be on gender-related issues within the organization and its regions
+      ● Your focus should be on gender-related issues within the organization and its regions.
      
-      ● The insights required are based on your discretion. However, Mr Gamma, as an insider, has offered to give you pointers on areas you need to pay attention to
+      ● The insights required are based on your discretion.
 
 ## PROJECT INSIGHT
+
     ● Generally, there are two genders in the organization. However, some employees refused to disclose their gender.
     
     ● You would need to assign a generic gender status to these employees
@@ -43,33 +53,39 @@ The future of gender equality in Palmoria lies in the analysis of this data.
     
         ● Does Palmoria meet this requirement?
         
-        ● Show the pay distribution of employees grouped by a band of $10,000. For example:
+        ● Show the pay distribution of employees grouped by a band of $10,000?
         
-        ● How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.?
+        ● How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000?
         
-        ● Also visualize this by regions
+        ● Also visualize this by regions?
 
 ## FURTHER ANALYSIS
-    5. Mr Gamma thought to himself that since you were already working on the employee data, you could help out with allocating the annual bonus pay to employees based on the performance rating. He handed you another data set that contains rules for making bonus payments and asked you to:
+
+    5. Mr Gamma thought to himself that since you were already working on the employee data, you could help out with allocating the annual bonus pay to employees based on the performance rating. 
     
-            ● Calculate the amount to be paid as a bonus to individual employees
+       He handed you another data set that contains rules for making bonus payments and asked you to:
+    
+            ● Calculate the amount to be paid as a bonus to individual employees.
             
-            ● Calculate the total amount to be paid to individual employees (salary inclusive of bonus)
+            ● Calculate the total amount to be paid to individual employees (salary inclusive of bonus).
             
-            ● Total amount to be paid out per region and company-wid
+            ● Total amount to be paid out per region and company-wide.
             
 ## Dataset Description
+
 The dataset provided contains two sets of information, one set of dat for the gender and another for the bonus percentage.
 
 ## Data Source
+
     ● Microsoft Excel [Download Here](https://microsoft-excel.en.download.it/download)
 
 ## Data Storage
+
     ● Snipping Tool [Download Here](https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=en-US&gl=US)
 
 ## Data Presentation
-    ● Microsoft PowerPoint [Download Here](https://microsoft-powerpoint.en.download.it/)
 
+    ● Microsoft PowerPoint [Download Here](https://microsoft-powerpoint.en.download.it/)
 
 ## Tools Deployed
 
