@@ -159,7 +159,9 @@ The dataset provided contains two sets of information, one set of dat for the ge
       
             ● Some of the staff were not rated, hence no bunus pay for them.
             
-            ● Some staff operated in more than one location. 
+            ● Some staff operated in more than one location with different bonus rating.
+
+            ● some staff 
       
 #### Charts were deployed for:
 
