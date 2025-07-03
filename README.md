@@ -155,7 +155,12 @@ The dataset provided contains two sets of information, one set of dat for the ge
                ● The excel function (ADDITION) was used to get the sum the total payout for the organization.
         
 ## Charts
-
+      Other info revealed from the analysis are:
+      
+            ● Some of the staff were not rated, hence no bunus pay for them.
+            
+            ● Some staff operated in more than one location. 
+      
 #### Charts were deployed for:
 
       ● Analysis 1:
