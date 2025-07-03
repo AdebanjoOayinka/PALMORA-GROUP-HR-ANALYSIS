@@ -247,5 +247,6 @@ The dataset provided contains two sets of information, one set of dat for the ge
                  
                  ● Same salaries.
 
-                 
-     
+### Further Areas for possible Analysis
+
+      #### To know if the names repeated were errors from the data provided.
